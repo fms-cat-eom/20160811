@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160811 "Polygon Triangulation"  
+# Everyday One Motion - 20160811  
+
+"Polygon Triangulation"  
 
 ![](20160811.gif)  
 
 JavaScript, Canvas  
 
 [Everyday One Motion](http://motions.work/motion/353)  
-[Demo Page](http://fms-cat.github.io/eom_20160811/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160811/dist)  
 
 ## Polygon Triangulation
 
